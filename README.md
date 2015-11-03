@@ -1,8 +1,4 @@
----
-tags: euler, problems
-languages: ruby
-resources: 1
----
+
 # Project Euler
 
 ## Problem: Largest Prime Factor
@@ -13,7 +9,7 @@ resources: 1
 ## Instructions
 - Code your procedural solution into the `lib/largest_prime_factor.rb` file. 
 - Code your object-oriented solution into the `lib/oo_largest_prime_factor.rb` file. Make sure that you set the largest prime factor equal to the `number` attribute of the `LargestPrimeFactor` class.
-- Run your `rspec` test suite, and make each RSpec test pass.
+- Run `learn` until you get all of the RSpec tests to pass.
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 3](https://projecteuler.net/problem=3)
